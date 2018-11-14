@@ -1,9 +1,11 @@
 span {
-    display: inline-block;
+    display: block;
     width: 100px;
     height: 100px;
     margin: 5px;
     background-color: black;
     color: white;
     font-weight: 500
+    font: 100
+    
 }

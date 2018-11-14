@@ -1,0 +1,20 @@
+.full {
+    background-color: pink;
+    height: 100px;
+    width: 100%;
+}
+
+.half1 {
+    display: inline-block;
+    background-color: yellow;
+    height: 300px;
+    width: 49.5% 
+    
+}
+.half2 {
+    display: inline-block;
+    background-color: yellow;
+    height: 300px;
+    width: 49.5%;
+   margin-left: 1%;
+}
